@@ -1,6 +1,6 @@
 {
   "name": "feconfig-bhs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "prettier.config.js",
   "author": "Hyunseok Byun",
   "description": "Prettier setting for project",
