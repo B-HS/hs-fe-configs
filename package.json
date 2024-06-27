@@ -1,0 +1,16 @@
+{
+  "name": "hs-fe-configs",
+  "version": "1.0.0",
+  "main": ".prettierrc",
+  "author": "Hyunseok Byun",
+  "description": "Prettier setting for project",
+  "files": [
+    ".prettierrc"
+  ],
+  "keywords": [
+    "prettier",
+    "config",
+    "formatting"
+  ],
+  "license": "MIT"
+}
