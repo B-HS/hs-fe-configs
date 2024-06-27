@@ -1,6 +1,6 @@
 {
-  "name": "hs-fe-configs",
-  "version": "1.0.0",
+  "name": "feconfig-bhs",
+  "version": "1.0.1",
   "main": ".prettierrc",
   "author": "Hyunseok Byun",
   "description": "Prettier setting for project",
