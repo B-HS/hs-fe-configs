@@ -1,11 +1,11 @@
 {
   "name": "feconfig-bhs",
   "version": "1.0.1",
-  "main": ".prettierrc",
+  "main": "prettier.config.js",
   "author": "Hyunseok Byun",
   "description": "Prettier setting for project",
   "files": [
-    ".prettierrc"
+    "prettier.config.js"
   ],
   "keywords": [
     "prettier",
